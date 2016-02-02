@@ -1,0 +1,1 @@
+define({  "name": "IntelliJ Platform REST API",  "version": "140.2110",  "description": "",  "url": "http://localhost:63342/api",  "sampleUrl": false,  "apidoc": "0.2.0",  "generator": {    "name": "apidoc",    "time": "2016-02-02T08:32:12.224Z",    "url": "http://apidocjs.com",    "version": "0.14.0"  }});
