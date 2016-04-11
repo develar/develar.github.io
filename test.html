@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><title>hi</title>
+    <script language="JavaScript">
+        var oReq = new XMLHttpRequest();
+        oReq.addEventListener("load", function() {
+            window.alert(this.responseText);
+        });
+        oReq.open("GET", "http://localhost:8090/api/about");
+        oReq.send();
+    </script>
+    <style type="text/css"></style>
+</head><body>-</body>
+</html>
